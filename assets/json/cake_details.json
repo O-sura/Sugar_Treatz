@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Chocolate Explosion Cake",
+        "flavor":"Chocolate",
+        "description": "A perfect treat for your chocoholic lover. Three layers of moist chocolate cake sandwiched with chocolate ganache topped with all sorts of chocolate varieties.\n\nSuger Treatz is an upscale coffee lounge chain in Sri Lanka with high-quality coffee-based beverages, cakes, desserts and snacks. Its desserts and cakes are rated 5 stars with a strong backing of the Suger Treatz brand",
+        "img_src":"assets/img/cake_1.jpg",
+        "price": 14.99,
+        "rating": 4.2,
+        "review_count":12
+    },
+    {
+        "name":"Date And Walnut Cake",
+        "flavor":"Chocolate",
+        "description": "This Date and Walnut cake feature a luscious layer of vanilla cream topped with a date and walnut. Suger Treatz is an upscale coffee lounge chain in Sri Lanka with high quality coffee-based beverages, cakes, desserts and snacks. It`s desserts and cakes are rated 5 star with a strong backing of the Suger Treatz brand. \n\nIngredients: Walnut,Cashew,All spice mix,Egg,Butter,Caster sugar,Dates",
+        "img_src":"assets/img/cake_2.jpg",
+        "price": 12.49,
+        "rating": 5.0,
+        "review_count":16
+    },
+    {
+        "name":"Strawberry Chocolate Cake",
+        "flavor":"Strawberry",
+        "description": "This dark chocolate strawberry cake is made with 4 layers of moist dark chocolate cake and sandwiched with real fresh strawberry buttercream. It`s covered with fresh strawberry butter cream and topped with a chocolate ganache that drips beautifully for a stunning and delicious touch. Also topped with two chocolate covered strawberries.\n\nIngredients: Butter, granulated sugar, all-purpose flour, baking soda, vanilla, eggs, cocoa powder, fresh strawberry puree, dark chocolate, chocolate covered fresh strawberries, chocolate ganache",
+        "img_src":"assets/img/cake_3.jpg",
+        "price": 7.99,
+        "rating": 4.7,
+        "review_count":21
+    },
+    {
+        "name":" Chocolate Nightmare Cake",
+        "flavor":"Chocolate",
+        "description": "Chocolate nightmare cake is super moist, fudgy, and decadent. This 4-layer rich chocolate cake is a chocolate lover`s dream come true. You need to impress someone` Serve up this cake! It will make any moment memorable.\n\nIngredients: Butter, granulated brown sugar, powdered sugar, all-purpose flour, baking soda, vanilla, eggs, cocoa powder, dark chocolate, milk chocolate, chocolate ganache, heavy cream, rum flavour",
+        "img_src":"assets/img/cake_4.jpg",
+        "price": 14.99,
+        "rating": 4.2,
+        "review_count":12
+    },
+    {
+        "name":"Lemoncurd Vanilla Cake",
+        "flavor":"Vanilla",
+        "description": "Moist Vanilla cake sandwiched with a lemony vanilla butter cream and lemon curd made in three layers. This decadent cake is topped with orange and mango truffles and strawberries.",
+        "img_src":"assets/img/cake_5.jpg",
+        "price": 7.99,
+        "rating": 4.2,
+        "review_count":26
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name":"ChocoBerry Smoothie",
+        "flavor":"Chocolate",
+        "description": "This Chocolate Blueberry Smoothie is a Daily Harvest copycat -- a nutritional powerhouse beverage that makes a great filling breakfast or snack!",
+        "img_src":"assets/img/smoothie_1.jpg",
+        "price": 24.49,
+        "rating": 4.9,
+        "review_count": 29
+    },
+    {
+        "name":"Pineapple Smoothie",
+        "flavor":"Pineapple",
+        "description": "This decadently thick smoothie recipe will satisfy your cravings for an ice cream cone. Plus, pineapple contains bromelain, an enzyme that helps break down protein and may help reduce bloating. \n\nCombine 1 cup of low-fat or light vanilla yogurt, six ice cubes, and 1 cup of pineapple chunks",
+        "img_src":"assets/img/smoothie_2.jpg",
+        "price": 18.99,
+        "rating": 3.9,
+        "review_count": 19
+    },
+    {
+        "name":"Orange Dream Smoothie",
+        "flavor":"Orange",
+        "description": "Need to cool down after a tough workout? Lap up this low-calorie, citrus-infused healthy smoothie recipe. All you need is 1 navel orange (peeled), 1/4 cup fat-free, half-and-half milk or fat-free yogurt, 2 Tbsp. frozen orange juice concentrate, 1/4 tsp. vanilla extract, and 4 ice cubes. Throw all the ingredients into a blender and process until smooth.",
+        "img_src":"assets/img/smoothie_3.jpg",
+        "price": 18.99,
+        "rating": 3.7,
+        "review_count": 21
+    },
+    {
+        "name":"Banana Vanilla Smoothie",
+        "flavor":"Vanilla",
+        "description": "Bananas are a no-fuss choice for smoothies as they blend really easily, and when combined with the vanilla yogurt, provide a lovely creaminess and thick texture. The honey adds sweetness, and the vanilla extract contributes a subtle depth of flavor that really sets this smoothie apart.",
+        "img_src":"assets/img/smoothie_4.jpg",
+        "price": 16.75,
+        "rating": 4.2,
+        "review_count": 33
+    }
+    
+]

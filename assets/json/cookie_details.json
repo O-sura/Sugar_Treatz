@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Chocolate Chip Cookies",
+        "flavor":"Chocolate",
+        "description": "What is the most popular type of cookie? It might just be this one. Ever the crowd-pleaser, the chocolate chip cookie is renowned for its balance of richness and sweetness. The traditional recipe for these cookies includes butter, eggs, chocolate chips, and brown sugar, but it can be tweaked to fit a variety of tastes and occasions.",
+        "img_src":"assets/img/cookie_1.jpg",
+        "price": 3.50,
+        "rating": 4.4,
+        "review_count": 23
+    },
+    {
+        "name":"Peanut butter cookies",
+        "flavor":"Butter",
+        "description": "Sweet, salty, and creamy, peanut butter cookies have been around since the early 1900s,\n\nThe ingredient list for peanut butter cookies is simple: peanut butter, sugar, and an egg. The most notable feature of this cookie, though, might be its signature hashed, cross shape on top, created when the dough is pierced with a fork.",
+        "img_src":"assets/img/cookie_2.jpg",
+        "price": 1.80,
+        "rating": 4.1,
+        "review_count": 12
+    },
+    {
+        "name":"Gingerbread cookies",
+        "flavor":"Ginger",
+        "description": "A holiday staple, gingerbread cookies come in many forms, but the most iconic is the traditional man-shaped variety. Brown sugar and molasses meld with spices and ginger to create a unique flavor that we immediately associate with Christmastime.",
+        "img_src":"assets/img/cookie_3.jpg",
+        "price": 2.50,
+        "rating": 3.8,
+        "review_count":20
+    },
+    {
+        "name":"Black and white cookies",
+        "flavor":"Butter",
+        "description": "Visually striking, black and white cookies are deceptively simple. With a foundation of vanilla-laden “cookies” (more on that below) topped with chocolate and vanilla frosting, black and white cookies keep things simple while still creating an exciting culinary experience.",
+        "img_src":"assets/img/cookie_4.jpg",
+        "price": 4.00,
+        "rating": 4.0,
+        "review_count": 32
+    },
+    {
+        "name":"Peanut Butter Blossoms",
+        "flavor":"Butter",
+        "description": "Peanut butter blossoms cookies — a classic almost anyone will recognize. Yes, these peanut butter desserts are famous for their chewy creamy peanut butter cookie base topped with KISSES milk chocolate candies, but it’s the taste that reminds us of all the special memories that come with these traditional holiday cookies. \n\nHave a bag of KISSES chocolates ready and grab your favorite people. Then it’s time for the best part using this peanut butter blossoms cookie recipe. Bite straight in, eat around the peanut butter base or save the chocolate for your very last bite.",
+        "img_src":"assets/img/cookie_5.jpg",
+        "price": 3.75,
+        "rating": 3.2,
+        "review_count": 10
+    }
+]

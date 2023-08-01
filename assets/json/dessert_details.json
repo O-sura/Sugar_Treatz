@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Hot Fudge Sundae",
+        "flavor":"Chocolate",
+        "description": "A classic dessert, this Hot Fudge Sundae is a delicious combination of ice cream and rich hot fudge. Top it with whatever your heart desires or go with the classic whipped cream, sprinkles, nuts, and a cherry. You cannot go wrong with whatever you pick!",
+        "img_src":"assets/img/dessert_1.jpg",
+        "price": 11.49,
+        "rating": 4.5,
+        "review_count": 42
+    },
+    {
+        "name":"Chocolate Brownie Sundae",
+        "flavor":"Chocolate",
+        "description": "This chocolate lovers’ sundae starts with a decadent and fudgy bittersweet chocolate brownie that’s loaded with dark chocolate chips. We also top it with dark chocolate ice cream, chocolate sauce and chocolate-covered nuts for the full effect.",
+        "img_src":"assets/img/dessert_2.png",
+        "price":10.55,
+        "rating": 4.2,
+        "review_count": 36
+    },
+    {
+        "name":"Oreo Dream Extreme",
+        "flavor":"Chocolate",
+        "description": "Dream Extreme Oreo Cheesecake is a rich and fudgy cake, with a chocolate layer, Oreo Cheesecake, and Oreo Mousse, topped with a layer of chocolate ganache.",
+        "img_src":"assets/img/dessert_3.jpg",
+        "price": 18.00,
+        "rating": 4.7,
+        "review_count":21
+    },
+    {
+        "name":"Caramel Cheesecake",
+        "flavor":"Caramel",
+        "description": "A delicious No-Bake Cheesecake packed full of a Salted Caramel Cheesecake filling with Pretzels & Popcorn! – A delicious dessert perfect for every occasion!",
+        "img_src":"assets/img/dessert_4.jpg",
+        "price": 15.49,
+        "rating": 3.8,
+        "review_count":23
+    },
+    {
+        "name":"Carrot Cake",
+        "flavor":"Cheesy",
+        "description": "With its outstanding spice flavor, super moist crumb, and velvety cream cheese frosting, this is truly the best carrot cake. Use brown sugar and toasted pecans for deeper flavor.",
+        "img_src":"assets/img/dessert_5.jpg",
+        "price": 17.49,
+        "rating": 3.9,
+        "review_count":17
+    }
+]

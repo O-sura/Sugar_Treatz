@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Strawberry Chocolate Cake",
+        "flavor":"Strawberry",
+        "description": "This dark chocolate strawberry cake is made with 4 layers of moist dark chocolate cake and sandwiched with real fresh strawberry buttercream. It`s covered with fresh strawberry butter cream and topped with a chocolate ganache that drips beautifully for a stunning and delicious touch. Also topped with two chocolate covered strawberries.\n\nIngredients: Butter, granulated sugar, all-purpose flour, baking soda, vanilla, eggs, cocoa powder, fresh strawberry puree, dark chocolate, chocolate covered fresh strawberries, chocolate ganache",
+        "img_src":"assets/img/cake_3.jpg",
+        "price": 7.99,
+        "rating": 4.7,
+        "review_count":21
+    },
+    {
+        "name":"Date And Walnut Cake",
+        "flavor":"Chocolate",
+        "description": "This Date and Walnut cake feature a luscious layer of vanilla cream topped with a date and walnut. Suger Treatz is an upscale coffee lounge chain in Sri Lanka with high quality coffee-based beverages, cakes, desserts and snacks. It`s desserts and cakes are rated 5 star with a strong backing of the Suger Treatz brand. \n\nIngredients: Walnut,Cashew,All spice mix,Egg,Butter,Caster sugar,Dates",
+        "img_src":"assets/img/cake_2.jpg",
+        "price": 12.49,
+        "rating": 5.0,
+        "review_count":16
+    },
+    {
+        "name":"Black and white cookies",
+        "flavor":"Butter",
+        "description": "Visually striking, black and white cookies are deceptively simple. With a foundation of vanilla-laden “cookies” (more on that below) topped with chocolate and vanilla frosting, black and white cookies keep things simple while still creating an exciting culinary experience.",
+        "img_src":"assets/img/cookie_4.jpg",
+        "price": 4.00,
+        "rating": 4.0,
+        "review_count": 32
+    },
+    {
+        "name":"Hot Fudge Sundae",
+        "flavor":"Chocolate",
+        "description": "A classic dessert, this Hot Fudge Sundae is a delicious combination of ice cream and rich hot fudge. Top it with whatever your heart desires or go with the classic whipped cream, sprinkles, nuts, and a cherry. You cannot go wrong with whatever you pick!",
+        "img_src":"assets/img/dessert_1.jpg",
+        "price": 11.49,
+        "rating": 4.5,
+        "review_count": 42
+    },
+    {
+        "name":"Oreo Dream Extreme",
+        "flavor":"Chocolate",
+        "description": "Dream Extreme Oreo Cheesecake is a rich and fudgy cake, with a chocolate layer, Oreo Cheesecake, and Oreo Mousse, topped with a layer of chocolate ganache.",
+        "img_src":"assets/img/dessert_3.jpg",
+        "price": 18.00,
+        "rating": 4.7,
+        "review_count":21
+    },
+    {
+        "name":"ChocoBerry Smoothie",
+        "flavor":"Chocolate",
+        "description": "This Chocolate Blueberry Smoothie is a Daily Harvest copycat -- a nutritional powerhouse beverage that makes a great filling breakfast or snack!",
+        "img_src":"assets/img/smoothie_1.jpg",
+        "price": 24.49,
+        "rating": 4.9,
+        "review_count": 29
+    }
+]
